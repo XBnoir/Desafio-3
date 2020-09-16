@@ -1,0 +1,11 @@
+body {
+    background-color: #836436;
+   }
+H2 { text-align: center }
+H3 { text-align: center }
+H1 { text-align: center }
+
+em, strong {
+    background-color: #2adb1a;
+    display: block;
+  }
